@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/MSpil/GEP/gep-25-26-unreal-template-mspiller137/GEP_Template/Content/ThirdPerson/Blueprints/BP_InventoryComponent.uasset",
+				"D:/MSpil/GEP/gep-25-26-unreal-template-mspiller137/GEP_Template/Content/Inventory/Widgets/WB_Slot.uasset",
+				"D:/MSpil/GEP/gep-25-26-unreal-template-mspiller137/GEP_Template/Content/Inventory/Widgets/WB_Inventory.uasset",
+				"D:/MSpil/GEP/gep-25-26-unreal-template-mspiller137/GEP_Template/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/MSpil/GEP/gep-25-26-unreal-template-mspiller137/GEP_Template/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/G7/W44VYUN4BLXNZS8PNHJL66.uasset",
+				"D:/MSpil/GEP/gep-25-26-unreal-template-mspiller137/GEP_Template/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/Y2/XW9LC1VBPVFXJUA0BUS0UD.uasset",
+				"D:/MSpil/GEP/gep-25-26-unreal-template-mspiller137/GEP_Template/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/CK/FKH7O04MBHKXN5AQP0OI7S.uasset",
 				"C:/Users/mspil/Downloads/Uni Year 2 Projects/GEP/gep-25-26-unreal-template-mspiller137/GEP_Template/Content/Inventory/Widgets/WB_Inventory.uasset",
 				"C:/Users/mspil/Downloads/Uni Year 2 Projects/GEP/gep-25-26-unreal-template-mspiller137/GEP_Template/Content/Inventory/Widgets/WB_Slot.uasset",
 				"C:/Users/mspil/Downloads/Uni Year 2 Projects/GEP/gep-25-26-unreal-template-mspiller137/GEP_Template/Content/ThirdPerson/Blueprints/BP_InventoryComponent.uasset",
