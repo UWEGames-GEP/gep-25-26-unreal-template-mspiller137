@@ -5,6 +5,24 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/mspil/Downloads/Uni Year 2 Projects/GEP/gep-25-26-unreal-template-mspiller137/GEP_Template/Content/Inventory/Widgets/WB_Inventory.uasset",
+				"C:/Users/mspil/Downloads/Uni Year 2 Projects/GEP/gep-25-26-unreal-template-mspiller137/GEP_Template/Content/Inventory/Widgets/WB_Slot.uasset",
+				"C:/Users/mspil/Downloads/Uni Year 2 Projects/GEP/gep-25-26-unreal-template-mspiller137/GEP_Template/Content/ThirdPerson/Blueprints/BP_InventoryComponent.uasset",
+				"C:/Users/mspil/Downloads/Uni Year 2 Projects/GEP/gep-25-26-unreal-template-mspiller137/GEP_Template/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/mspil/Downloads/Uni Year 2 Projects/GEP/gep-25-26-unreal-template-mspiller137/GEP_Template/Content/Inventory/Blueprints/S_ItemStruct.uasset",
+				"C:/Users/mspil/Downloads/Uni Year 2 Projects/GEP/gep-25-26-unreal-template-mspiller137/GEP_Template/Content/Inventory/Models/Materials/M_Red.uasset",
+				"C:/Users/mspil/Downloads/Uni Year 2 Projects/GEP/gep-25-26-unreal-template-mspiller137/GEP_Template/Content/Inventory/Models/Materials/M_Blue.uasset",
+				"C:/Users/mspil/Downloads/Uni Year 2 Projects/GEP/gep-25-26-unreal-template-mspiller137/GEP_Template/Content/Inventory/Models/Materials/M_Gold.uasset",
+				"C:/Users/mspil/Downloads/Uni Year 2 Projects/GEP/gep-25-26-unreal-template-mspiller137/GEP_Template/Content/Inventory/Blueprints/BP_Item.uasset",
+				"C:/Users/mspil/Downloads/Uni Year 2 Projects/GEP/gep-25-26-unreal-template-mspiller137/GEP_Template/Content/Inventory/Models/SM_BasicItem.uasset",
+				"C:/Users/mspil/Downloads/Uni Year 2 Projects/GEP/gep-25-26-unreal-template-mspiller137/GEP_Template/Content/Inventory/Models/SM_GoldCube.uasset",
+				"C:/Users/mspil/Downloads/Uni Year 2 Projects/GEP/gep-25-26-unreal-template-mspiller137/GEP_Template/Content/Inventory/Models/SM_BlueCube.uasset",
+				"C:/Users/mspil/Downloads/Uni Year 2 Projects/GEP/gep-25-26-unreal-template-mspiller137/GEP_Template/Content/Inventory/Models/SM_RedCube.uasset",
+				"C:/Users/mspil/Downloads/Uni Year 2 Projects/GEP/gep-25-26-unreal-template-mspiller137/GEP_Template/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/Y2/XW9LC1VBPVFXJUA0BUS0UD.uasset",
+				"C:/Users/mspil/Downloads/Uni Year 2 Projects/GEP/gep-25-26-unreal-template-mspiller137/GEP_Template/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/G7/W44VYUN4BLXNZS8PNHJL66.uasset",
+				"C:/Users/mspil/Downloads/Uni Year 2 Projects/GEP/gep-25-26-unreal-template-mspiller137/GEP_Template/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/CK/FKH7O04MBHKXN5AQP0OI7S.uasset",
+				"C:/Users/mspil/Downloads/Uni Year 2 Projects/GEP/gep-25-26-unreal-template-mspiller137/GEP_Template/Content/ThirdPerson/Input/Actions/IA_Inventory.uasset",
+				"C:/Users/mspil/Downloads/Uni Year 2 Projects/GEP/gep-25-26-unreal-template-mspiller137/GEP_Template/Content/ThirdPerson/Input/IMC_Default.uasset",
 				"D:/GEP-Unreal-5.4.4-Template/GEP_Template/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
